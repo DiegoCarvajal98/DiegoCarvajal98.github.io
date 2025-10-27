@@ -1,10 +1,10 @@
 site_name: Diego Carvajal - Robotics
-site_url: https://DiegoCarvajal98.github.io/diegocarvajal98.github.io
+site_url: https://DiegoCarvajal98.github.io/DiegoCarvajal98.github.io
 nav:
   - About: index.md
   - Projects: projects.md
 theme:
-  name: material
+  name: readthedocs
   favicon: images/favicon.svg
   logo: images/logo.png
   language: en
