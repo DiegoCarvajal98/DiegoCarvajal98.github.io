@@ -1,5 +1,8 @@
 site_name: Diego Carvajal - Robotics
-site_url: https://DiegoCarvajal98.github.io/
+site_url: https://DiegoCarvajal98.github.io/diegocarvajal98.github.io
+nav:
+  - About: index.md
+  - Projects: projects.md
 theme:
   name: material
   favicon: images/favicon.svg
@@ -9,5 +12,5 @@ theme:
     primary: custom
     accent: blue grey
   # custom_dir: overrides
-extra_css:
-  - stylesheets/extra.css
+# extra_css:
+#   - stylesheets/extra.css
