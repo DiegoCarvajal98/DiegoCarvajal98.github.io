@@ -1,6 +1,13 @@
 site_name: Diego Carvajal - Robotics
-site_url: https://DiegoCarvajal98.github.io/personal-website/
+site_url: https://DiegoCarvajal98.github.io/
 theme:
   name: material
+  favicon: images/favicon.svg
+  logo: images/logo.png
+  language: en
+  palette: 
+    primary: custom
+    accent: blue grey
+  # custom_dir: overrides
 extra_css:
   - stylesheets/extra.css
