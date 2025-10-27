@@ -1,4 +1,6 @@
 site_name: Diego Carvajal - Robotics
-site_url: https://DiegoCarvajal98.github.io
+site_url: https://DiegoCarvajal98.github.io/personal-website/
 theme:
   name: material
+extra_css:
+  - stylesheets/extra.css
