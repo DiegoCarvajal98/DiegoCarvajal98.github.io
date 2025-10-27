@@ -4,7 +4,7 @@ nav:
   - About: index.md
   - Projects: projects.md
 theme:
-  name: readthedocs
+  name: material
   favicon: images/favicon.svg
   logo: images/logo.png
   language: en
