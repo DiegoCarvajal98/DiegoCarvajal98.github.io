@@ -1,7 +1,8 @@
 site_name: Diego Carvajal - Robotics
-site_url: https://DiegoCarvajal98.github.io/DiegoCarvajal98.github.io
+site_url: https://DiegoCarvajal98.github.io/
 nav:
   - About: index.md
+  - Media: media.md
   - Projects: projects.md
 theme:
   name: material
@@ -12,5 +13,24 @@ theme:
     primary: custom
     accent: blue grey
   # custom_dir: overrides
-# extra_css:
-#   - stylesheets/extra.css
+extra_css:
+  - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - footnotes
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
+  - tables
+  - pymdownx.blocks.html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
