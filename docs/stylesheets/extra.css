@@ -3,3 +3,26 @@
     display: block;
     margin: 0 auto;
 }
+
+/* Custom button */
+.custom_button {
+    background: var(--md-primary-fg-color);
+    display: block;
+    color: #ffffff !important;
+    width: 100%;
+    text-align: center;
+    padding: 15px 20px;
+}
+
+.custom_button:hover {
+    background-color: var(--md-primary-fg-color--dark);
+}
+
+.skill{
+    display: inline-block;
+    border-radius: 10px;
+    background-color: var(--md-primary-fg-color--dark);
+    color: white !important;
+    padding: 5px 10px;
+    margin: 5px;
+}

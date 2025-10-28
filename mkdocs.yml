@@ -10,9 +10,14 @@ theme:
   logo: images/logo.png
   language: en
   palette: 
-    primary: custom
-    accent: blue grey
+    primary: blue
+    accent: blue
   # custom_dir: overrides
+
+plugins:
+  - open-in-new-tab
+  # - macros:
+  #     module_name: main
 extra_css:
   - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css
   - stylesheets/extra.css
@@ -34,3 +39,21 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.superfences
+
+extra:
+  social:
+    - icon: /fontawesome/solid/envelope
+      name: Send Kim an enquiry by mail
+      link: mailto:&#107;&#110;&#109;&#099;&#103;&#117;&#105;&#114;&#101;&#114;&#111;&#098;&#111;&#116;&#105;&#099;&#115;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;
+    - icon: fontawesome/brands/linkedin
+      name: Kimberly on LinkedIn
+      link: https://www.linkedin.com/in/knmcguire/
+    - icon: fontawesome/brands/github
+      name: Kimberly on Github
+      link: https://github.com/knmcguire
+    - icon: fontawesome/brands/google-scholar
+      name: Kimberly on Google Scholar
+      link: https://scholar.google.com/citations?hl=en&user=Mu4nP2QAAAAJ
+    - icon: fontawesome/brands/youtube
+      name: Kimberly on Youtube
+      link: https://www.youtube.com/channel/UCRPVP3M1cP8aGyS2F_b1vww/playlists
