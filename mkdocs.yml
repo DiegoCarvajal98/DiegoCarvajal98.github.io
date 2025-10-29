@@ -43,17 +43,17 @@ markdown_extensions:
 extra:
   social:
     - icon: /fontawesome/solid/envelope
-      name: Send Kim an enquiry by mail
-      link: mailto:&#107;&#110;&#109;&#099;&#103;&#117;&#105;&#114;&#101;&#114;&#111;&#098;&#111;&#116;&#105;&#099;&#115;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;
+      name: Send Diego an enquiry by mail
+      link: mailto:diego98cs%40gmail.com
     - icon: fontawesome/brands/linkedin
-      name: Kimberly on LinkedIn
-      link: https://www.linkedin.com/in/knmcguire/
+      name: Diego on LinkedIn
+      link: https://www.linkedin.com/in/dcarvajal98/
     - icon: fontawesome/brands/github
-      name: Kimberly on Github
-      link: https://github.com/knmcguire
+      name: Diego on Github
+      link: https://github.com/DiegoCarvajal98
     - icon: fontawesome/brands/google-scholar
-      name: Kimberly on Google Scholar
-      link: https://scholar.google.com/citations?hl=en&user=Mu4nP2QAAAAJ
+      name: Diego on Google Scholar
+      link: https://scholar.google.com/citations?user=hrbTkhgAAAAJ&hl=en
     - icon: fontawesome/brands/youtube
-      name: Kimberly on Youtube
-      link: https://www.youtube.com/channel/UCRPVP3M1cP8aGyS2F_b1vww/playlists
+      name: Diego on Youtube
+      link: https://www.youtube.com/channel/UCcz0JL8eeMNP4KG7p_mTfJA

@@ -14,7 +14,7 @@ I am a collaborative team player with a passion for continuous learning and prob
 
 <span style="float: right;">[My CV :fontawesome-solid-file-lines:](/files/DiegoCarvajalCV.pdf)</span> <br>
 <span style="float: right;">[Portfolio :fontawesome-solid-briefcase:](/projects)</span> <br>
-<span style="float: right;">[Contact me: :fontawesome-solid-envelope:](mailto:diego98cs%40gmail.com)</span> <br>
+<span style="float: right;">[Contact me :fontawesome-solid-envelope:](mailto:diego98cs%40gmail.com)</span> <br>
 
 ___
 
@@ -43,13 +43,22 @@ ___
 
 ## Experience
 
-[2023 - 2025 **Innovation  and Development Engineer** _Automate Col_](http://www.automate-corp.com/) <span>:co:</span>
+_2023 - 2025_ **Innovation  and Development Engineer** <span style="float: right;">:co:</span> <br>
+[_Automate Col_](http://www.automate-corp.com/)
 
-[2022 - 2022 **Research Intern** _Grupo de investigación en Control y Mecatrónica_](https://unab.edu.co/control-y-mecatronica-gicym/) <span>:co:</span>
+_2022 - 2022_ **Research Intern** <span style="float: right;">:co:</span> <br>
+[_Grupo de investigación en Control y Mecatrónica_](https://unab.edu.co/control-y-mecatronica-gicym/)
 
 ## Education
 
-[2018 - 2023 **Bachelor of Engineering, Mechatronics Engineering** _Universidad Autónoma de Bucaramanga_](https://unab.edu.co/) <span>:co:</span>
+_2018 - 2023_ **Bachelor of Engineering, Mechatronics Engineering** <span style="float: right;">:co:</span> <br>
+[_Universidad Autónoma de Bucaramanga_](https://unab.edu.co/)
+
+## Awards
+
+_2021_ **UNRobot 2021 Challenge Winner** <span style="float: right;">:co:</span>
+
+Winner of the UNRobot Challenge in the Intermediate Simulation category, this challenge consisted of developing and implementing an obstacle avoidance strategy for a differential robot through Matlab simulation.
 ___
 
 [Projects I have worked on! :fontawesome-solid-hammer:](/projects){ .custom_button }
