@@ -27,7 +27,18 @@
     margin: 5px;
 }
 
+.center-links{
+    text-align: center;
+    display: block;
+}
+
 #video-frame{
     display: block;
     aspect-ratio: 16 /9;
+}
+
+:root > * {
+    --md-primary-fg-color: #280137;
+    --md-primary-fg-color-light: #280137
+    --md-primary-fg-color--dark: #010002;
 }

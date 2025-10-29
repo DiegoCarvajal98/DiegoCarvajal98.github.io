@@ -10,8 +10,8 @@ theme:
   logo: images/logo.png
   language: en
   palette: 
-    primary: blue
-    accent: blue
+    primary: custom
+    accent: custom
   # custom_dir: overrides
 
 plugins:
