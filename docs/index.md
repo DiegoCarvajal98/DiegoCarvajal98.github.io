@@ -12,7 +12,7 @@ I have a proven track record of working in a fast-paced environment, integrating
 
 I am a collaborative team player with a passion for continuous learning and problem-solving. I am eager to apply my skills to innovative and challenging projects in robotics and automation.
 
-<span>[My CV :fontawesome-solid-file-lines:](/files/DiegoCarvajalCV.pdf) - [ Portfolio :fontawesome-solid-briefcase:](/projects) - [ Contact me :fontawesome-solid-envelope:](mailto:diego98cs%40gmail.com)</span>
+<span>[My CV :fontawesome-solid-file-lines:](/files/DiegoCarvajalCV.pdf) - [ Portfolio :fontawesome-solid-briefcase:](/projects/projects) - [ Contact me :fontawesome-solid-envelope:](mailto:diego98cs%40gmail.com)</span>
 ___
 
 ## Skills :fontawesome-solid-screwdriver-wrench:
@@ -36,7 +36,7 @@ ___
 [Research](){ .skill }
 [Continuous improvement](){ .skill }
 
-[And more...](/projects)
+[And more...](/projects/projects)
 
 ## Experience :fontawesome-solid-briefcase:
 
@@ -58,6 +58,6 @@ _2021_ **UNRobot 2021 Challenge Winner** <span style="float: right;">:co:</span>
 Winner of the UNRobot Challenge in the Intermediate Simulation category, this challenge consisted of developing and implementing an obstacle avoidance strategy for a differential robot through Matlab simulation.
 ___
 
-[My publications :fontawesome-solid-scroll:](/projects){ .custom_button }
+[My publications :fontawesome-solid-scroll:](/media){ .custom_button }
 
-[Projects I have worked on! :fontawesome-solid-hammer:](/projects){ .custom_button }
+[Projects I have worked on! :fontawesome-solid-hammer:](/projects/projects){ .custom_button }
