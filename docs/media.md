@@ -4,6 +4,10 @@ title: Media
 
 ## Publications
 
+2026 - **A Camera-Based Teleoperation System for a Robot Manipulator With Gripper Haptic Feedback**
+
+[Paper :fontawesome-solid-file-lines:](https://doi.org/10.1115/IMECE2025-160139)
+
 2023 - **Revisión del uso de interaces cerebro-computador con el paradigma de Potenciales Evocados Visuales en Estado Estable en el control de robots manipuladores**
 
 [Paper (Spanish) :fontawesome-solid-file-lines:](https://doi.org/10.31948/editorialunimar.214.c369)

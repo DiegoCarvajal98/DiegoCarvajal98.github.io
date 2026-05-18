@@ -1,12 +1,14 @@
 ---
-title: UR3 Teleoperation
+title: Teleoperation System for a Robot Manipulator with Gripper Haptic Feedback
 ---
-
-## Teleoperation System for a Robot Manipulator with Gripper Haptic Feedback
 
 During this project, I developed a teleoperation system or a UR3 robot manipulator using my programming skills with python and C++ to estimate the pose of the user's hand and control the robot and its gripper with ROS, my hardware design skills for the design of the electronics and mechanical components needed in the haptic tool and gripper force sensing systems.
 
 [Github repository :fontawesome-brands-github:](https://github.com/DiegoCarvajal98/ur3_teleop){ .custom_button }
+
+## What?
+
+## How?
 
 ### First concept of the pose capture system
 
@@ -31,6 +33,8 @@ During this project, I developed a teleoperation system or a UR3 robot manipulat
 ### Object manipulation test
 
 <iframe id="video-frame" width="100%" height="100%" src="https://www.youtube.com/embed/yaqduluBwro" title="UR3 Robot Teleoperation | Object Manipulation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Results
 
 ## Project skills :fontawesome-solid-screwdriver-wrench:
 

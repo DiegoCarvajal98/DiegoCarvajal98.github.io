@@ -4,6 +4,14 @@ title: Hiwonder xArm robot simulation and control
 
 [Github repository :fontawesome-brands-github:](https://github.com/DiegoCarvajal98/xarm_ros2){ .custom_button }
 
+## What?
+
+* Project objectives
+
+## How?
+
+* Process of the project
+
 ### Robot URDF and visualization
 
 After getting the CAD model from the vendor, assembled the STL files into the URDF and used the `joint_state_controller` to visualize it's movement in `rviz`.
@@ -19,6 +27,8 @@ After the URDF was working correctly, I started to implement the robot simulatio
 ### Real robot control
 
 <iframe id="video-frame" width="100%" height="100%" src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7297028312969666561?compact=1" frameborder="0" allowfullscreen="" title="xArm control"></iframe>
+
+## Results
 
 ## Project skills :fontawesome-solid-screwdriver-wrench:
 

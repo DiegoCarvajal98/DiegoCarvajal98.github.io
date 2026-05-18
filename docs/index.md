@@ -40,6 +40,9 @@ ___
 
 ## Experience :fontawesome-solid-briefcase:
 
+_2025 - Present_ **Control Engineer** <span style="float: right;">:co:</span> <br>
+[_Rocatek SAS_](https://rocatek.com/)
+
 _2023 - 2025_ **Innovation  and Development Engineer** <span style="float: right;">:co:</span> <br>
 [_Automate Col_](http://www.automate-corp.com/)
 

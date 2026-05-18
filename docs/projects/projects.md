@@ -36,4 +36,24 @@ hide:
     </a>
   </div>
 
+  <div class="project-card">
+    <a href="/projects/ur3_bci">
+      <img src="/images/BCI.png" alt="Dynamic Analisys of a Robot Manipulator">
+      <div class="card-content">
+        <span class="card-tags">Kinematics, Multibody Dynamics, SolidWorks</span>
+        <h3 class="card-title">Dynamic Analisys of a Robot Manipulator</h3>
+      </div>
+    </a>
+  </div>
+
+  <div class="project-card">
+    <a href="/projects/ur3_bci">
+      <img src="/images/BCI.png" alt="Finite Element Analisys of a 6DoF Robot Manipulator">
+      <div class="card-content">
+        <span class="card-tags">FEA, Comsol Multiphysics, SolidWorks</span>
+        <h3 class="card-title">Finite Element Analisys of a 6DoF Robot Manipulator</h3>
+      </div>
+    </a>
+  </div>
+
 </div>
